@@ -48,8 +48,8 @@ class Array
     end
 end
 
-#### SAMPLE TREES ####
+#### Sample BSTs ####
 ONE = [1].to_btree
-SIMPLE = [1,2,3,4].to_btree
+SIMPLE = [2,1,3].to_btree
 COMPLEX = [15,6,25,nil,10,23,29,nil,nil,8,14,nil,nil,27,50].to_btree
 LINE = [1,nil,2,nil,nil,nil,3,nil,nil,nil,nil,nil,nil,nil,4].to_btree
